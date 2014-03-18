@@ -9,6 +9,18 @@ ghdiff
 
 Generate Github-style HTML for unified diffs.
 
+Note, this is the "class" version of the original "ghdiff" package.
+It provides an easily overridable class, but the behavior is the same as the
+original package from Patrick Strawderman ("kilink")
+
+Install
+=======
+
+.. code:: bash
+
+    pip install ghdiff_class
+
+
 diff
 ====
 
